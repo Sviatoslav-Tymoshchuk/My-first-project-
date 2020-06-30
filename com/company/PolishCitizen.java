@@ -77,7 +77,7 @@ public class PolishCitizen extends Citizen {
 
             System.out.println(" Polish PESEL is Ok");
 
-        } else System.out.println("Polish PESEL Error");
+        } else System.out.println("Polish PESEL is incorrect");
 
     }
 
